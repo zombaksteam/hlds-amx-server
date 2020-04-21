@@ -1,2 +1,2 @@
 You are playing Half-Life v1.6
-Visit our web site at https://hl.ufs.co.ua
+Visit our web site at https://github.com/zombaksteam/hlds-amx-server
