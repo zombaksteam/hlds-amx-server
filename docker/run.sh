@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Set timezone
+TIME_ZONE=$(cat /etc/timezone)
+export TZ="${TIME_ZONE}"
+
 # Move to server root
 cd /home/steam/server
 
