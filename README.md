@@ -2,6 +2,8 @@
 
 This is AmxModX base image for pure clear Half-Life 1.6 server with AmxModX
 
+Docker image: [https://hub.docker.com/repository/docker/zombaksteam/hl-amx-server](https://hub.docker.com/repository/docker/zombaksteam/hl-amx-server)
+
 ## How to test image
 
 ```bash
