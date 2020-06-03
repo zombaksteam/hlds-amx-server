@@ -13,7 +13,7 @@ docker run --rm \
  -e HL_SERVER_IP="127.0.0.1" \
  -e HL_SERVER_PORT="27015" \
  -v /etc/timezone:/etc/timezone:ro \
- -it hl-amx-server:latest
+ -it zombaksteam/hl-amx-server:latest
 ```
 
 ## How to run server
@@ -27,7 +27,7 @@ docker run -d \
  -e HL_SERVER_PORT="27015" \
  -v /etc/timezone:/etc/timezone:ro \
  -v /host-server/logs/:/home/steam/server/valve/addons/amxmodx/logs/ \
- -it hl-amx-server:latest
+ -it zombaksteam/hl-amx-server:latest
 ```
 
 ## How to attach to console
